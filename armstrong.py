@@ -7,6 +7,6 @@ while temp > 0:
    sum += digit ** order
    temp //= 10
 if num == sum:
-   print(num,"is an Armstrong num")
+   print("yes")
 else:
-   print(num,"is not an Armstrong num")
+   print("no")
