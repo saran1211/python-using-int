@@ -1,5 +1,5 @@
 l='123'
 if (l.isdigit()):
-  print ('true')
+  print ('yes')
 else:
-  print ('false')  
+  print ('no')  
